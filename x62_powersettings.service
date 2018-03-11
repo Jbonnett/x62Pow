@@ -1,0 +1,9 @@
+[Unit]
+Description=Configure power management
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/sbin/x62_powersettings.sh
+
+[Install]
+WantedBy=sysinit.target
