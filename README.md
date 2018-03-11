@@ -8,7 +8,7 @@ I flashed the latest bios (email jacky from the lcdfans fb group for a copy) usi
   
   `update.bat`
 
-When finished and shut down. I booted back into freedos and flashed the older(~mid 2016) ec1012.bin ec(fan?) controller bios. 
+When finished and shut down. I booted back into freedos and flashed the older(~mid 2016) ec1012.bin ec(fan?) controller firmware. 
 
   `flashup /p ec1012.bin /c a.cfg`
   
